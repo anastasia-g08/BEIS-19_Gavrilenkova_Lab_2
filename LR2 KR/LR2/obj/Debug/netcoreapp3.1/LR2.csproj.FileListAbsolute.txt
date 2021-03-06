@@ -1,0 +1,12 @@
+/Users/anastasia/Documents/1учеба/2к/2 сем/РиСПСиИТ/ЛР2/LR2/LR2/bin/Debug/netcoreapp3.1/LR2.deps.json
+/Users/anastasia/Documents/1учеба/2к/2 сем/РиСПСиИТ/ЛР2/LR2/LR2/bin/Debug/netcoreapp3.1/LR2.runtimeconfig.json
+/Users/anastasia/Documents/1учеба/2к/2 сем/РиСПСиИТ/ЛР2/LR2/LR2/bin/Debug/netcoreapp3.1/LR2.runtimeconfig.dev.json
+/Users/anastasia/Documents/1учеба/2к/2 сем/РиСПСиИТ/ЛР2/LR2/LR2/bin/Debug/netcoreapp3.1/LR2.dll
+/Users/anastasia/Documents/1учеба/2к/2 сем/РиСПСиИТ/ЛР2/LR2/LR2/bin/Debug/netcoreapp3.1/LR2.pdb
+/Users/anastasia/Documents/1учеба/2к/2 сем/РиСПСиИТ/ЛР2/LR2/LR2/obj/Debug/netcoreapp3.1/LR2.csprojAssemblyReference.cache
+/Users/anastasia/Documents/1учеба/2к/2 сем/РиСПСиИТ/ЛР2/LR2/LR2/obj/Debug/netcoreapp3.1/LR2.AssemblyInfoInputs.cache
+/Users/anastasia/Documents/1учеба/2к/2 сем/РиСПСиИТ/ЛР2/LR2/LR2/obj/Debug/netcoreapp3.1/LR2.AssemblyInfo.cs
+/Users/anastasia/Documents/1учеба/2к/2 сем/РиСПСиИТ/ЛР2/LR2/LR2/obj/Debug/netcoreapp3.1/LR2.csproj.CoreCompileInputs.cache
+/Users/anastasia/Documents/1учеба/2к/2 сем/РиСПСиИТ/ЛР2/LR2/LR2/obj/Debug/netcoreapp3.1/LR2.dll
+/Users/anastasia/Documents/1учеба/2к/2 сем/РиСПСиИТ/ЛР2/LR2/LR2/obj/Debug/netcoreapp3.1/LR2.pdb
+/Users/anastasia/Documents/1учеба/2к/2 сем/РиСПСиИТ/ЛР2/LR2/LR2/obj/Debug/netcoreapp3.1/LR2.genruntimeconfig.cache
