@@ -18,3 +18,13 @@ C:\Users\anastasia\Documents\LR2\LR2\obj\Debug\LR2.pdb
 \\Mac\Home\Documents\учеба\2к\2с\РиСПСиИТ\ЛР2\projects\LR2\LR2\obj\Debug\LR2.csproj.CoreCompileInputs.cache
 \\Mac\Home\Documents\учеба\2к\2с\РиСПСиИТ\ЛР2\projects\LR2\LR2\obj\Debug\LR2.exe
 \\Mac\Home\Documents\учеба\2к\2с\РиСПСиИТ\ЛР2\projects\LR2\LR2\obj\Debug\LR2.pdb
+\\Mac\Home\Documents\учеба\2к\2с\РиСПСиИТ\ЛР2\projects\BEIS-19_Gavrilenkova_Lab_2\LR2\bin\Debug\LR2.exe.config
+\\Mac\Home\Documents\учеба\2к\2с\РиСПСиИТ\ЛР2\projects\BEIS-19_Gavrilenkova_Lab_2\LR2\bin\Debug\LR2.exe
+\\Mac\Home\Documents\учеба\2к\2с\РиСПСиИТ\ЛР2\projects\BEIS-19_Gavrilenkova_Lab_2\LR2\bin\Debug\LR2.pdb
+\\Mac\Home\Documents\учеба\2к\2с\РиСПСиИТ\ЛР2\projects\BEIS-19_Gavrilenkova_Lab_2\LR2\obj\Debug\LR2.csprojAssemblyReference.cache
+\\Mac\Home\Documents\учеба\2к\2с\РиСПСиИТ\ЛР2\projects\BEIS-19_Gavrilenkova_Lab_2\LR2\obj\Debug\LR2.Form1.resources
+\\Mac\Home\Documents\учеба\2к\2с\РиСПСиИТ\ЛР2\projects\BEIS-19_Gavrilenkova_Lab_2\LR2\obj\Debug\LR2.Properties.Resources.resources
+\\Mac\Home\Documents\учеба\2к\2с\РиСПСиИТ\ЛР2\projects\BEIS-19_Gavrilenkova_Lab_2\LR2\obj\Debug\LR2.csproj.GenerateResource.cache
+\\Mac\Home\Documents\учеба\2к\2с\РиСПСиИТ\ЛР2\projects\BEIS-19_Gavrilenkova_Lab_2\LR2\obj\Debug\LR2.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\учеба\2к\2с\РиСПСиИТ\ЛР2\projects\BEIS-19_Gavrilenkova_Lab_2\LR2\obj\Debug\LR2.exe
+\\Mac\Home\Documents\учеба\2к\2с\РиСПСиИТ\ЛР2\projects\BEIS-19_Gavrilenkova_Lab_2\LR2\obj\Debug\LR2.pdb
