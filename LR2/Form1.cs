@@ -58,5 +58,20 @@ namespace LR2
             }
             else textBox3.Text = "Выход за область допустимых значений";
         }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            double x1 = Convert.ToDouble(textBox1.Text);
+            double koren = Math.Sqrt(x1);
+            textBox3.Text = Convert.ToString(koren);
+            label4.Text = "Корень";
+        }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            textBox1.Text = "";
+            textBox2.Text = "";
+            textBox3.Text = "";
+        }
     }
 }
